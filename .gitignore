@@ -1,0 +1,9 @@
+build
+*.err
+gitignored
+
+.cache
+*.sublime-workspace
+
+compile_commands.json
+.clangd
